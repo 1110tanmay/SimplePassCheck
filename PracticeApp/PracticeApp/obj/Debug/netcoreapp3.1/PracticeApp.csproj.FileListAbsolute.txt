@@ -1,0 +1,14 @@
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.exe
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.deps.json
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.runtimeconfig.json
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.runtimeconfig.dev.json
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.dll
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\bin\Debug\netcoreapp3.1\PracticeApp.pdb
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.csproj.AssemblyReference.cache
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.AssemblyInfo.cs
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.dll
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.pdb
+C:\Users\tanmay.shelar\source\repos\PracticeApp\PracticeApp\obj\Debug\netcoreapp3.1\PracticeApp.genruntimeconfig.cache
